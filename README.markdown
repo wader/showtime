@@ -65,8 +65,8 @@ Install pkg-config using MacPorts
 	$ sudo port install pkgconfig
 
 Now there are two possible ways to get a build environment, the MacPorts way
-or the custome build scripts way. If you dont plan to build for different
-architectures or SDKs as you are current running, or dont plan to compile with
+or the custome build scripts way. If you don't plan to build for different
+architectures or SDKs as you are current running, or don't plan to compile with
 fancy extensions, i would recommend the MacPorts way.
 
 If you choose the custome script way, please continue to read support/osx/README
